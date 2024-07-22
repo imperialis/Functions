@@ -1,8 +1,11 @@
 
 # Introduction
-This write-up examines one of Solidity's low-level functions, the staticCall function, within the context of the TransparentUpgradeableProxy smart contract. A real-world use case is employed to demonstrate its purpose, usage, and i
+This write-up examines one of Solidity's low-level functions, the staticCall function, within the context of the TransparentUpgradeableProxy smart contract. A real-world use case is employed to demonstrate its purpose, usage, and impact.
+
 **Protocol Name:** Aurus Token  
+
 **Category:** RWA Tokenization  
+
 **Smart Contract:** TransparentUpgradeableProxy  
 
 ## Function Analysis
