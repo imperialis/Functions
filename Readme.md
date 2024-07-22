@@ -1,4 +1,4 @@
-```markdown
+
 # Introduction
 This write-up examines one of Solidity's low-level functions, the staticCall function, within the context of the TransparentUpgradeableProxy smart contract. A real-world use case is employed to demonstrate its purpose, usage, and i
 **Protocol Name:** Aurus Token  
