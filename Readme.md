@@ -22,6 +22,8 @@ function getProxyImplementation(TransparentUpgradeableProxy proxy) public view v
     return abi.decode(returndata, (address));
 }
 ```
+The code snippet above shows the implementation of the getProxyImplementation function, it was extracted from the proxyAdmin.sol section of the TransparentUpgradeableProxy smart contract.Therein is highlighted a use case for solidity's "staticCall" function.
+
 **Used Encoding/Decoding or Call Method:** staticCall
 
 ## Explanation
